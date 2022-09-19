@@ -1,0 +1,73 @@
+Intento numero: 1
+test: => 1, 4
+Intento numero: 2
+test: => 1, 4
+Intento numero: 3
+test: => 1, 4
+Intento numero: 4
+test: => 1, 4
+Intento numero: 5
+test: => 1, 4
+Intento numero: 6
+test: => 1, 4
+Intento numero: 7
+test: => 1, 4
+Intento numero: 8
+test: => 1, 4
+Intento numero: 9
+test: => 1, 4
+Intento numero: 10
+test: => 1, 4
+Intento numero: 11
+test: => 1, 4
+Intento numero: 12
+test: => 1, 4
+Intentos superados, ¡has perdido!Intento numero: 1
+test: => 0, 4
+Intento numero: 2
+test: => 0, 4
+Intento numero: 3
+test: => 0, 4
+Intento numero: 4
+test: => 0, 4
+Intento numero: 5
+test: => 0, 4
+Intento numero: 6
+test: => 0, 4
+Intento numero: 7
+test: => 0, 4
+Intento numero: 8
+test: => 0, 4
+Intento numero: 9
+test: => 0, 4
+Intento numero: 10
+test: => 0, 4
+Intento numero: 11
+test: => 0, 4
+Intento numero: 12
+test: => 0, 4
+Intentos superados, ¡has perdido!Intento numero: 1
+test: => 0, 3
+Intento numero: 2
+test: => 0, 3
+Intento numero: 3
+test: => 0, 3
+Intento numero: 4
+test: => 0, 3
+Intento numero: 5
+test: => 0, 3
+Intento numero: 6
+test: => 0, 3
+Intento numero: 7
+test: => 0, 3
+Intento numero: 8
+test: => 0, 3
+Intento numero: 9
+test: => 0, 3
+Intento numero: 10
+test: => 0, 3
+Intento numero: 11
+test: => 0, 3
+Intento numero: 12
+test: => 0, 3
+Intentos superados, ¡has perdido!
